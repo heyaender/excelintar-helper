@@ -1,0 +1,22 @@
+{
+    "name": "heyaender/excelintar-helper",
+    "description": "Helper for heyaender/excelintar",
+    "type": "library",
+    "homepage": "https://github.com/heyaender/excelintar-helper",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Heyaender\\ExcelintarHelper\\": "./src/ExcelintarHelper"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-zip": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-ctype": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
