@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Heyaender\\ExcelintarHelper\\": "./src/ExcelintarHelper"
+            "heyaender\\ExcelintarHelper\\": "./src/ExcelintarHelper"
         }
     },
     "require": {
