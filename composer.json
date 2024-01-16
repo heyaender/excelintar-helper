@@ -2,7 +2,6 @@
     "name": "heyaender/excelintar-helper",
     "description": "Helper for heyaender/excelintar",
     "type": "library",
-    "homepage": "https://github.com/heyaender/excelintar-helper",
     "license": "MIT",
     "autoload": {
         "psr-4": {
